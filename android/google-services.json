@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29309560425",
+    "project_id": "husaini-f2265",
+    "storage_bucket": "husaini-f2265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29309560425:android:44a9df9b93c85b274ca4f8",
+        "android_client_info": {
+          "package_name": "com.example.husaini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29309560425-c6tdcpl1b9s13bpg9dgd31hsmmoetc8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVlKqabKz4stcldKID3FaGnIOIgMBTLZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29309560425-c6tdcpl1b9s13bpg9dgd31hsmmoetc8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
